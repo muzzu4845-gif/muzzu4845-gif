@@ -1,286 +1,229 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00ff88,100:00e5ff&height=220&section=header&text=MUZAMMIL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20DEVELOPER&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:e10600&height=220&section=header&text=MUZZU&fontSize=72&fontColor=ff1e1e&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descAlign=50&descSize=20&stroke=e10600&strokeWidth=1" alt="Header" />
 
-</div>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ███╗   ███╗██╗   ██╗███████╗ █████╗ ███╗   ███╗██╗██╗   ║
-║   ████╗ ████║██║   ██║╚══███╔╝██╔══██╗████╗ ████║██║██║   ║
-║   ██╔████╔██║██║   ██║  ███╔╝ ███████║██╔████╔██║██║██║   ║
-║   ██║╚██╔╝██║██║   ██║ ███╔╝  ██╔══██║██║╚██╔╝██║██║██║   ║
-║   ██║ ╚═╝ ██║╚██████╔╝███████╗██║  ██║██║ ╚═╝ ██║██║███████╗║
-║   ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### `> SYSTEM STATUS: ONLINE_`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Initializing+Muzammil.exe...;%3E+MERN+Stack+Developer;%3E+React+%7C+Node.js+%7C+MongoDB;%3E+Building+real-world+applications...;%3E+System+ready+%E2%9C%93" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1E1E&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE;FULL+STACK+DEVELOPER;FRONTEND+ENGINEER;REACT+%7C+NEXT.JS+%7C+NODE.JS;BUILD.+DEBUG.+DEPLOY." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00e5ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-CHENNAI-111111?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=muzzu4845-gif&label=PROFILE+VIEWS&color=e10600&style=for-the-badge&font=fira" alt="Profile Views" />
 
 </div>
 
 ---
 
-## `root@muzammil:~$ whoami`
+## 💻 WHO_AM_I
 
 ```bash
-┌──[muzammil@dev]─[~]
-└─$ whoami
+> whoami
+Muzamil F
 
-MERN Stack Developer
+> role
+Full Stack Developer
 
-┌──[muzammil@dev]─[~]
-└─$ cat profile.json
+> focus
+Frontend Engineering | MERN | APIs | UI/UX
 
-{
-  "name": "Muzammil",
-  "role": "MERN Stack Developer",
-  "focus": [
-    "Frontend Development",
-    "Full Stack Development",
-    "REST APIs",
-    "Responsive UI/UX"
-  ],
-  "frontend": ["React", "Next.js", "JavaScript", "TypeScript"],
-  "backend": ["Node.js", "Express.js"],
-  "database": ["MongoDB", "MySQL"],
-  "currently_learning": [
-    "Advanced React",
-    "Next.js",
-    "AI Integration"
-  ],
-  "mission": "Build scalable real-world applications"
-}
+> status
+Building scalable web applications
 ```
 
 ---
 
-# `01 // TECH_STACK`
+## 👤 About Me
+
+I am a **Full Stack Developer** focused on frontend engineering, building scalable web applications, responsive interfaces, and modern dashboards. My work centers on creating reusable React components, integrating REST APIs, and delivering full-stack applications that are clean, maintainable, and user-focused.
+
+---
+
+## 🚀 Currently Building: ZENVE Intelligence Engine
 
 <div align="center">
 
-### `>> FRONTEND`
+| | |
+|---|---|
+| **Type** | Enterprise Intelligence / Management Platform |
+| **Frontend** | React.js + Vite |
+| **Backend** | Java + Spring Boot |
+| **Database** | MySQL |
+| **API** | REST API |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</div>
 
-### `>> BACKEND`
+**Key modules I am working on:**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+- 📊 Enterprise Dashboard and Analytics (charts, tables, filters, pagination)
+- 🩺 Doctor Management: Doctors Dashboard, All Doctors, Performance, Revenue, Patients, Orders, Commissions
+- 📦 Inventory, Catalogue and Product Management
+- 🔌 REST API integration and responsive enterprise UI
 
-### `>> DATABASE`
+My primary focus on this project is frontend architecture, UI/UX, responsive design, API integration, and the dashboard experience.
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+---
 
-### `>> TOOLS`
+## 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vite,npm" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=e10600)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=e10600)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=e10600)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=e10600)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=e10600)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=nextdotjs&logoColor=e10600)
+![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=e10600)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=e10600)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=e10600)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=e10600)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=e10600)
+![Express.js](https://img.shields.io/badge/Express.js-0a0a0a?style=for-the-badge&logo=express&logoColor=e10600)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0a0a0a?style=for-the-badge&logo=springboot&logoColor=e10600)
+![REST API](https://img.shields.io/badge/REST%20APIs-0a0a0a?style=for-the-badge&logoColor=e10600)
+![Axios](https://img.shields.io/badge/Axios-0a0a0a?style=for-the-badge&logo=axios&logoColor=e10600)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=e10600)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=e10600)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=e10600)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=e10600)
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=e10600)
+![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=e10600)
+![npm](https://img.shields.io/badge/npm-0a0a0a?style=for-the-badge&logo=npm&logoColor=e10600)
+![Yarn](https://img.shields.io/badge/Yarn-0a0a0a?style=for-the-badge&logo=yarn&logoColor=e10600)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=e10600)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0a0a0a?style=for-the-badge&logoColor=e10600)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-0a0a0a?style=for-the-badge&logoColor=e10600)
+
+---
+
+## ⚙️ Development Protocol / Skills
+
+```text
+[ CORE ]       Component Architecture · Reusable UI · Responsive Design
+[ FRONTEND ]   React · Next.js · TypeScript · Redux · Tailwind · Bootstrap
+[ BACKEND ]    Node.js · Express · REST APIs · Authentication · CRUD
+[ DATA ]       MongoDB · MySQL · Database Integration
+[ DASHBOARD ]  Analytics · Charts · Tables · Filters · Pagination
+[ AI ]         AI Integration
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muzzu4845-gif&show_icons=true&theme=dark&hide_border=true&title_color=e10600&icon_color=e10600&text_color=ffffff&bg_color=0a0a0a&ring_color=e10600" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzzu4845-gif&layout=compact&theme=dark&hide_border=true&title_color=e10600&text_color=ffffff&bg_color=0a0a0a" />
 
 </div>
 
 ---
 
-# `02 // SYSTEM_MODULES`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     DEVELOPMENT MODULES                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [01] FRONTEND ENGINE                                       │
-│      ├── React.js                                            │
-│      ├── Next.js                                             │
-│      ├── JavaScript / TypeScript                             │
-│      ├── Tailwind CSS                                       │
-│      └── Responsive UI                                      │
-│                                                             │
-│  [02] BACKEND ENGINE                                        │
-│      ├── Node.js                                             │
-│      ├── Express.js                                          │
-│      └── REST APIs                                           │
-│                                                             │
-│  [03] DATA ENGINE                                           │
-│      ├── MongoDB                                             │
-│      └── MySQL                                               │
-│                                                             │
-│  [04] DEVELOPMENT TOOLS                                     │
-│      ├── Git / GitHub                                        │
-│      ├── VS Code                                             │
-│      ├── Postman                                             │
-│      └── Figma                                               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `03 // PROJECTS`
-
-## `> PROJECT_001 // ZENVE INTELLIGENCE ENGINE`
-
-```text
-STATUS      : ACTIVE
-TYPE        : FULL STACK / AI
-FRONTEND    : React + Vite + Tailwind
-BACKEND     : Node.js
-DATABASE    : MongoDB
-```
-
-AI-powered full-stack application focused on intelligent business workflows and modern dashboard experiences.
-
-<a href="https://github.com/muzzu4845-gif/Zenve-intelligence-Engine">
-<img src="https://img.shields.io/badge/%3E_ACCESS_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
----
-
-## `> PROJECT_002 // TRAVEL AGENCY`
-
-```text
-STATUS      : COMPLETED
-TYPE        : FULL STACK WEB APPLICATION
-FRONTEND    : React + Tailwind CSS
-BACKEND     : Node.js
-DATABASE    : MongoDB
-```
-
-Travel agency platform designed with responsive UI and full-stack architecture.
-
-<a href="https://github.com/muzzu4845-gif/Travel-agency">
-<img src="https://img.shields.io/badge/%3E_ACCESS_PROJECT-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
----
-
-## `> PROJECT_003 // PORTFOLIO`
-
-```text
-STATUS      : ACTIVE
-TYPE        : PERSONAL PORTFOLIO
-STACK       : React + Tailwind CSS
-```
-
-Personal developer portfolio showcasing projects, skills and experience.
-
-<a href="https://github.com/muzzu4845-gif/Portfolio">
-<img src="https://img.shields.io/badge/%3E_ACCESS_PROJECT-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
----
-
-# `04 // CURRENT_MISSION`
-
-```text
-[████████████████████████████████████████] 100%
-
-✓ Build production-ready React applications
-✓ Develop scalable REST APIs
-✓ Improve full-stack architecture
-✓ Learn advanced Next.js
-✓ Explore AI-powered applications
-✓ Build better UI/UX systems
-
-MISSION_STATUS: IN_PROGRESS...
-```
-
----
-
-# `05 // GITHUB_ANALYTICS`
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muzzu4845-gif&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00e5ff&text_color=ffffff"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzzu4845-gif&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff"/>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muzzu4845-gif&theme=dark&hide_border=true&background=0a0a0a&ring=e10600&fire=e10600&currStreakLabel=e10600&border=e10600" />
 
 </div>
 
 ---
 
-# `06 // CONTRIBUTION_MATRIX`
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=muzzu4845-gif&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00e5ff&currStreakLabel=00ff88"/>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muzzu4845-gif&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=e10600&line=e10600&point=ffffff" />
 
 </div>
 
 ---
 
-# `07 // ACTIVITY_LOG`
+## 📁 Featured Projects
 
-<div align="center">
+### 🔴 ZENVE Intelligence Engine
+**Enterprise Intelligence / Management Platform**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muzzu4845-gif&bg_color=050505&color=00ff88&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
+Enterprise dashboard for doctor management, performance and revenue analytics, patient records, orders, commissions, inventory, and catalogue management.
 
-</div>
+- **Technologies:** React.js, Vite, Java, Spring Boot, MySQL, REST API
+- **What I worked on:** Frontend architecture, enterprise dashboard UI, analytics charts, tables with filters and pagination, responsive design, REST API integration
+- [Repository](#)
 
----
+### 🔴 Tripzy
+**Travel Agency Website**
 
-# `08 // TERMINAL`
+A travel agency website with a modern, responsive interface.
 
-```bash
-┌──[muzammil@github]─[~]
-└─$ ./connect.sh
+- **Technologies:** React.js, Tailwind CSS, Node.js, MongoDB
+- **What I worked on:** Frontend UI development, responsive layouts, component structure
+- [Repository](#)
 
-[+] Establishing connection...
-[+] Loading developer profile...
-[+] Loading projects...
-[+] Loading skills...
-[+] Connection established ✓
+### 🔴 Luxury Watch
+**E-commerce Website**
 
-Available commands:
+An e-commerce storefront for luxury watches with a clean, product-focused interface.
 
-$ ./projects.sh
-$ ./skills.sh
-$ ./contact.sh
+- **Technologies:** React.js, Tailwind CSS, Bootstrap
+- **What I worked on:** Frontend development, product listing and responsive UI
+- [Repository](#)
 
-SYSTEM READY.
-```
+### 🔴 Personal Portfolio
+**Personal developer portfolio website**
 
----
-
-# `09 // CONNECT`
-
-<div align="center">
-
-<a href="mailto:muzzu4845@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://github.com/muzzu4845-gif">
-<img src="https://img.shields.io/badge/GITHUB-00e5ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
+- **Technologies:** Frontend web technologies
+- **What I worked on:** Design and development of a personal portfolio to showcase my work
+- [Repository](#)
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   CODE > BUILD > BREAK > DEBUG > LEARN > REPEAT         ║
-║                                                          ║
-║              SYSTEM STATUS : ONLINE                     ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+[01] React Architecture
+[02] Next.js
+[03] MERN Stack
+[04] REST API Integration
+[05] Backend Development
+[06] Database Integration
+[07] UI/UX
+[08] AI Integration
+[09] Deployment
 ```
 
-<img src="https://komarev.com/ghpvc/?username=muzzu4845-gif&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge"/>
+---
 
-### `// END OF TRANSMISSION_`
+## 🧠 Developer Mindset
+
+| BUILD | DEBUG | LEARN | IMPROVE | DEPLOY |
+|:---:|:---:|:---:|:---:|:---:|
+| Clean, scalable code | Find root causes | Keep sharpening skills | Refactor with intent | Ship reliable software |
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=e10600)](https://github.com/muzzu4845-gif)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e10600)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e10600)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=e10600)](YOUR_PORTFOLIO_URL)
 
 </div>
+
+---
+
+```text
+┌──(muzzu@dev)-[~/profile]
+└─$ echo "BUILD. DEBUG. DEPLOY."
+BUILD. DEBUG. DEPLOY.
+┌──(muzzu@dev)-[~/profile]
+└─$ _
+```
